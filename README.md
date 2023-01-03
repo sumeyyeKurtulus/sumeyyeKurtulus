@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumeyyeKurtulus
 - 👀 I’m interested in coding and learning how to use trendy tools
-- 🌱 I’m currently learning backend web technologies and computer networks
-- 💞️ I’m looking to collaborate on any project I can use my programming language skills (C, java, python, PL/SQL)
+- 🌱 I’m currently learning web technologies and computer networks
 - 📫 How to reach me? Here is my e-mail address: sumeyye.kurtulus.business@gmail.com
 
 <!---
